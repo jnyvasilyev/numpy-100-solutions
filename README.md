@@ -1,3 +1,5 @@
+This is my attempt at solving the 100 numpy exercises. Current progress 0/100
+
 ## 100 numpy exercises
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
